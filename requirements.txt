@@ -1,0 +1,8 @@
+# Only needed for fixture generation, Python tests and benchmarks; the engine itself has no dependencies.
+pybind11>=2.11
+numpy
+torch
+torchvision
+onnx
+onnxruntime
+pytest
